@@ -40,7 +40,7 @@ I'm a tech enthusiast on a mission to master full stack development. I'm current
 
 ## 📈 GitHub Stats
 
-![Sudharsun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhar28-05-2008&show_icons=true&theme=tokyonight)
+![Sudharsun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudha28-05-2008&show_icons=true&theme=tokyonight)
 
 ---
 
