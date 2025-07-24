@@ -1,48 +1,56 @@
-# 👋 Hi, I'm V. Sudharsun
+# 👋 Hey, I'm V. Sudharsun
 
 🎓 B.Tech Information Technology student at [RMK Engineering College](https://rmkec.ac.in/)  
-💻 Aspiring Full Stack Web Developer  
-🌱 Currently learning: **JavaScript**  
-🌐 Known tech: **HTML**, **CSS**  
-🚀 Future goals: Dive deep into **MERN Stack (MongoDB, Express.js, React, Node.js)** and become a **proficient full stack developer**
+💻 Passionate about building the web and becoming a **Full Stack Developer**  
+🌱 Currently learning: `HTML`, `CSS`, `JavaScript`, and `React`  
+📫 Reach me: [sudharsunofficials@gmail.com](mailto:sudharsunofficials@gmail.com)
+
+---
+
+## 🚀 About Me
+
+I'm a tech enthusiast on a mission to master full stack development. I'm currently focused on learning core frontend technologies and gradually moving toward backend frameworks. My ultimate goal is to build beautiful, responsive, and scalable web applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💡 Frontend:  
-  `HTML` • `CSS` • `JavaScript` *(in progress)*  
-- 🔧 Tools & Platforms:  
-  `VS Code` • `Git` • `GitHub`
+**Frontend:**
+- HTML5
+- CSS3
+- JavaScript (in progress)
+- React (learning)
+
+**Tools & Platforms:**
+- VS Code
+- Git & GitHub
+- Chrome DevTools
 
 ---
 
-## 📚 Learning Path
+## 🔭 Current Goals
 
-- [x] HTML & CSS Basics  
-- [x] Responsive Design  
-- [ ] JavaScript (DOM, ES6+)  
-- [ ] Git & GitHub  
-- [ ] React.js  
-- [ ] Node.js & Express  
-- [ ] MongoDB  
-- [ ] Build Full Stack Projects
+- ✅ Build responsive web designs using HTML/CSS
+- 🚧 Learn JavaScript deeply (ES6, DOM, events)
+- 🌐 Start working on React projects
+- 🔜 Learn Node.js and Express for backend
+- 🎯 Become a MERN stack developer
 
 ---
 
-## 📈 GitHub Stats (Optional)
+## 📈 GitHub Stats
 
-![Sudharsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudharsunv&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Let's Connect!
-
-- 🌐 Portfolio (Coming soon)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 💼 LinkedIn: *(Add your LinkedIn once created)*
+![Sudharsun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhar28-05-2008&show_icons=true&theme=tokyonight)
 
 ---
 
-> “The best way to predict the future is to create it.” – Abraham Lincoln
+## 📫 Connect with Me
+
+- 📧 Email: [sudharsunofficials@gmail.com](mailto:sudharsunofficials@gmail.com)  
+- 💼 LinkedIn: [Sudharsun V](https://www.linkedin.com/in/sudharsun-v-6-?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌐 Portfolio: *Coming Soon*
+
+---
+
+> “The best way to get started is to quit talking and begin doing.” – Walt Disney
 
